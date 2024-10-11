@@ -1,0 +1,2 @@
+# Recurrent-Neural-Network-RNN-for-Time-Series-Prediction-with-Sine-and-Complex-Waveforms
+This project demonstrates how to use a Recurrent Neural Network (RNN) to predict time series data, using sine wave inputs and two different types of target functions: cosine waves and a more complex function. The project aims to showcase the ability of an RNN to learn sequential patterns and predict future values based on historical data.
