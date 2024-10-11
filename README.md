@@ -34,7 +34,7 @@ Install the required libraries using:
 pip install torch matplotlib numpy
 ```
 
-# Usage
+## Usage
 To run the project, follow these steps:
 
 - Clone the repository:
